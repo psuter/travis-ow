@@ -4,4 +4,4 @@ script:
 notifications:
   webhooks:
     urls:
-      - "https://whiskers.cat/misc/travis-hooks/demo"
+      secure: "d2qGFY/io/BS7EUukRs2zJm3uC4FGxKo9xXJMCD0st2prZuMOYc+P+f/a6zL6JQD2SM8hTB4Kf2g4fsiRgHJBuDSnIiL1d1LVRavxrd2I6K22tDrrn+CHY1MEyvM2lMbvLXpoAc9T/ZqwAQffPidcIQHmh1d854FEEhuMfy91S7UJqu9Fy6I1Ninw+Y0lU1qgH8CgBuM+1NonIaQ81obgFiZD9SfCq8wqEdy8aNgvhItA2LpJy3vicVefS6wrhwQdOpKCDQQPhCs1FOJz2KJjZWoeqxv237IAJM8m3Zev+to3SzaT8m9ufJHNWje8hfWj5FEUC1giGzJN4zp8M0WXcZ/7aBAdnmCP2IvkN/1x2XxBkl/+OMwLAo1R1jmgS1c4i7HFsSQZ+KiqeNH8CcCwr0GTTMSb7ioU3cb/Tl//FtcOhqdxoiq/onW5eskD9z8iU2+cFsUz5ZFweFdj8FeLwkiwv4GbEc0YT3apQRSCn2yt19k+QgEn2K57he7TziMyyjPjV6TWPpOEKibm7R5TSEBE8aa944XdjkyA1IilOYX/jV1RyK005jFB4qwzHmhe2GjbYcMhDD1xQ9Q0s3YAteEZYxq928wlTaF+RGrwERGYsLZhve1dzIWR/PBHsoOaAIrDyaOo1HMT+BO+Fte64rSZQd3FcoWqePkt9vlT30="
