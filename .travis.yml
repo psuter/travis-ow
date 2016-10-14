@@ -4,4 +4,4 @@ script:
 notifications:
   webhooks:
     urls:
-      - "https://whiskers.cat/ghwebhook"
+      - "https://whiskers.cat/misc/travis-hooks/demo"
